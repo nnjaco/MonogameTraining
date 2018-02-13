@@ -1,5 +1,5 @@
 # MonogameTraining
-Training using monogame video tutorials
+Training using monogame video tutorials - the tutorials website is http://www.gamefromscratch.com/post/2015/06/15/MonoGame-Tutorial-Creating-an-Application.aspx
 
 In this project you can find the binaryes of a first monogame training project. 
 
